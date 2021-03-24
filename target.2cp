@@ -1,0 +1,22 @@
+Courses:
+	Math,
+	Physics,
+	Chemistry,
+	Biology
+	
+Students:
+	Ivanov,
+	Petrov, 
+	Sidorov
+	
+Scores:
+	Ivanov: {
+		Math: 5,4,5,4,3,3,5;
+		Physics: 3,2,4,5;
+		Chemistry:5,5,4,3;
+	},
+	Petrov: { 
+		Biology: 5,4,5,4,3,3,5;
+		Physics: 3,2,4,5;
+		Chemistry:5,5,4,3;
+	} 
